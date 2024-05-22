@@ -1,0 +1,13 @@
+Found 4759 images belonging to 3 classes.
+Found 598 images belonging to 3 classes.
+
+model4 - Weight: 0.5693 - accuracy_score: 0.7392
+model2 - Weight: 0.4297 - accuracy_score: 0.7370
+model3 - Weight: 0.0010 - accuracy_score: 0.7180
+DirichletEnsemble accuracy_score: 0.7898
+
+Calling predict
+model4 - accuracy_score: 0.7392
+model2 - accuracy_score: 0.7370
+model3 - accuracy_score: 0.7180
+StackEnsemble accuracy_score: 0.6522
